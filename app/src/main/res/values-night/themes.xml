@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dicodingevents" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:fontFamily">@font/plus_jakarta_sans</item>
+        <item name="colorSurface">@color/app_background</item>
+        <item name="colorSurfaceContainer">@color/app_background</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#2E3F51</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@drawable/dicoding_header_logo</item>
+
+        <item name="postSplashScreenTheme">@style/Base.Theme.Dicodingevents</item>
+    </style>
+</resources>

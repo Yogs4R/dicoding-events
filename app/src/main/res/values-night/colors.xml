@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#131E29</color>
+    <color name="card_background">#1E2D3D</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9AA0A6</color>
+
+    <color name="dicoding_navy">#2E3F51</color>
+    <color name="highlight_grey">#E8EAED</color>
+</resources>
